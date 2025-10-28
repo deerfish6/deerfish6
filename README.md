@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Deerfish
 
-<!--
-**deerfish6/deerfish6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer from China 🇨🇳  
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **Frontend Development**  
+😺 I love **cats**, 🐶 **dogs**, 🎵 **singing**, and 🌏 **traveling**  
+📫 How to reach me: **zhengyubushilu1@qq.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=deerfish6&color=blue)
+
+⭐️ From [deerfish6](https://github.com/deerfish6)
+
