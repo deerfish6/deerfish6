@@ -4,7 +4,7 @@ A developer from China 🇨🇳
 
 🌱 I’m currently learning **Frontend Development**  
 😺 I love **cats**, 🐶 **dogs**, 🎵 **singing**, and 🌏 **traveling**  
-📫 How to reach me: **zhengyubushilu1@qq.com**
+📫 How to reach me: **yvyulvu@gmail.com**
 
 ---
 
